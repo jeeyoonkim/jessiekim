@@ -17,7 +17,7 @@
 .header-image{
    /* margin-top: 123px;*/ 
     height: 100vh;
-    background-color: #4e598c;
+    background-color: linear-gradient(90deg, rgba(176,110,247,1) 0%, rgba(98,71,245,1) 100%);
 
 }
 
@@ -26,6 +26,13 @@
     /* margin-top: 123px;*/ 
      height: 100vh;
      background-color: #F8E4EC;
+ 
+ }
+
+ .header-image3{
+    /* margin-top: 123px;*/ 
+     height: 100vh;
+     background-color: #;
  
  }
  
